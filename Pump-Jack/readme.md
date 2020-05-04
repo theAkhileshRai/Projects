@@ -5,6 +5,6 @@ The arrangement is commonly used for onshore wells producing little oil.
 
 Pumpjacks are common in oil rich area.
 
-[Imgur](https://imgur.com/7jf4qHi)
+! [Imgur PumpJack](https://imgur.com/7jf4qHi)
 
-[!alt image](https://i.imgur.com/7jf4qHi.png)
+! [alt image](https://i.imgur.com/7jf4qHi.png)
