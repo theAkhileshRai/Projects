@@ -7,4 +7,4 @@ Pumpjacks are common in oil rich area.
 
 [Imgur](https://imgur.com/7jf4qHi)
 
-[!alt](https://i.imgur.com/7jf4qHi.png)
+[!alt image](https://i.imgur.com/7jf4qHi.png)
